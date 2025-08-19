@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m Diego, a software engineer focused mostly in Frontend Development.
+I’m Diego, a software engineer.
 
 I love creating modern ideas into lightning-fast, accessible interfaces that feel effortless.
 
