@@ -9,4 +9,4 @@ Outside of code and Figma, you’ll usually find me playing music, hitting the g
 #### Fun Facts:
 
 * I love coffee.
-* I consider myself a bit weird (and probably have a touch of ADHD 😅) 
+* I consider myself a bit weird  
